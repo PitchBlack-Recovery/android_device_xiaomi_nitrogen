@@ -1,7 +1,7 @@
 [
   {
-    "remote":"github",
-    "repository": "MiCode/Xiaomi_Kernel_OpenSource",
+    "remote":"PitchBlackRecoveryProject",
+    "repository": "kernel_xiaomi",
     "target_path": "kernel/xiaomi/nitrogen",
     "revision":"nitrogen-p-oss"
   }
