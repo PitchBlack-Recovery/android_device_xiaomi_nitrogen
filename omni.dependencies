@@ -1,8 +1,8 @@
 [
   {
     "remote":"github",
-    "repository": "TeamWin/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "revision":"android-8.0"
+    "repository": "MiCode/Xiaomi_Kernel_OpenSource",
+    "target_path": "kernel/xiaomi/nitrogen",
+    "revision":"nitrogen-p-oss"
   }
 ]
