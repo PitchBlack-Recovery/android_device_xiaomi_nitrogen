@@ -5,7 +5,7 @@ jobs:
       # new all-in-one docker image
       - image: fr3akyphantom/droid-builder:latest
     environment:
-      MANIFEST_BRANCH: 'twrp-8.1'
+      MANIFEST_BRANCH: 'android-9.0'
       VERSION: '2.9.1'
       VENDOR: 'xiaomi'
       CODENAME: 'nitrogen'
@@ -30,5 +30,5 @@ workflows:
       - build:
           filters:
             branches:
-              only: android-8.1
+              only: android-9.0
           context: org-global
